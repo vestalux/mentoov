@@ -25,5 +25,9 @@ permalink: pretty
 
 social:
 
-  - title: envelope
+  - title: Email
+    icon: envelope
+    url: mailto:szia@borgiorno.hu
+  - title: Telefon
+    icon: phone
     url: mailto:szia@borgiorno.hu
