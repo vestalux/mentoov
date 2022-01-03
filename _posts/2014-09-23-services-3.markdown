@@ -1,8 +1,8 @@
 ---
 layout: default
-img: phones.png
+img: borkostolo.jpg
 category: Services
-title: Google Web Fonts and<br>Font Awesome Icons
+title: Borkóstolók
 description: |
 ---
-This template features the 'Lato' font, part of the [Google Web Font library](http://www.google.com/fonts), as well as [icons from Font Awesome](http://fontawesome.io).
+Az egyik legszebb élmény barátaink, családtagjaink vagy kollégáink körében elkortyolgatni egy pohár finom bort. Kérje borkóstoló szolgáltatásunkat lánybúcsúra, legénybúcsúra, céges csapatépítőre vagy családi eseményre. Sommelier segítségével megtanítjuk a borkóstolás fortélyait és tetszőleges számú válogatott hazai bort kóstolunk.
